@@ -7,8 +7,8 @@ public class Main {
         HighOrLow game = new HighOrLow();
 
         //ctf.run();
-        fuel.run();
-        //rectangle.run();
+        //fuel.run();
+        rectangle.run();
         //game.run();
     }
 }
