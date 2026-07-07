@@ -89,8 +89,8 @@ public class FuelCosts {
         double cost100 = (100.0/mpg) * price;
         double distance = gallons * mpg;
 
-        System.out.printf("Cost to drive 100 miles: $%.2f%n",cost100);
-        System.out.printf("Maximum distance: %.2f miles%n",distance);
+        System.out.println("Cost to drive 100 miles: $" + cost100);
+        System.out.println("Maximum distance: " + distance + " miles.");
 
     }
 
