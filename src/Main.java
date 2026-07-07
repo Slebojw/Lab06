@@ -8,7 +8,7 @@ public class Main {
 
         //ctf.run();
         //fuel.run();
-        rectangle.run();
-        //game.run();
+        //rectangle.run();
+        game.run();
     }
 }
